@@ -1,0 +1,1 @@
+# Program-to-find-the-diagonal-elements-using-array-
